@@ -1,7 +1,7 @@
 function  getImageList() {
     return [
       {
-        url: 'https://github.com/beecart/api/raw/main/images/offer.jpg',
+        url: 'https://raw.githubusercontent.com/beecart/api/main/images/zoom-banner-new-393x200.jpg',
         link: 'https://beecart.online/beecart/categories/oral-care'
       },
       {
