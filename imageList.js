@@ -9,8 +9,8 @@ function  getImageList() {
         link: 'https://mydukaan.io/beecart/products/parle-real-elaichi-premium-rusk-300g'
       },
       {
-        url: 'https://github.com/beecart/api/raw/main/images/offer3.jpg',
-        link: 'https://mydukaan.io/beecart/products/santoor-soap-300g-4nx75g'
+        url: 'https://github.com/beecart/api/raw/main/images/download.jpg',
+        link: 'https://beecart.online/beecart/products/sun-plus-aquamatic-detergent-powder-4-2kg-offer-pack'
       },
     
     ]; 
