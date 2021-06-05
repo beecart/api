@@ -1,7 +1,7 @@
 function  getImageList() {
     return [
       {
-        url: 'https://github.com/beecart/api/blob/main/images/Frame-871-393x200.jpg',
+        url: 'https://github.com/beecart/api/raw/main/images/zoom-banner-new-393x200.jpg',
         link: 'https://beecart.online/beecart/products/sambar-kit-2kg-sambar-powder-100gm'
       },
       {
